@@ -9,8 +9,8 @@ Hello, my name is Brayan Domínguez and I am a student at the [Autonomous Univer
 
 ## ✉️ Find me on:
 <p align="center">
- <a href="https://www.linkedin.com/in/brayan-dom%C3%ADnguez-saucedo-69008a250/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:brayandom1604@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/brayan-dom%C3%ADnguez-saucedo-69008a250/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" alt="linke" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:brayandom1604@gmail.com"> <img src="" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
