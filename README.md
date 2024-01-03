@@ -4,8 +4,8 @@
 Hello, my name is Brayan Domínguez and I am a student at the [Autonomous University of Zacatecas.](https://www.uaz.edu.mx/) I am a software developer. My technology stack includes Java/J2EE, MySQL, javascript, Python, C#, Rstudio and HTML/CSS/JS, PHP.
 
 - 🔭 I am attending the [Autonomous University of Zacatecas](https://www.uaz.edu.mx/) for Software Engineering!
-- 🌱 I am currently learning about cyber security
-- 🥅 Goals 2022 - 2023: Learn more new technologies and promation languages.
+- 🌱 I am currently learning the springboot and angular frameworks
+- 🥅 Goals 2024: Learn more new technologies and promation languages.
 
 ## ✉️ Find me on:
 <p align="center">
