@@ -10,7 +10,7 @@ Hello, my name is Brayan Domínguez and I am a student at the [Autonomous Univer
 ## ✉️ Find me on:
 <p align="center">
  <a href="https://www.linkedin.com/in/brayan-dom%C3%ADnguez-saucedo-69008a250/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" alt="linke" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:brayandom1604@gmail.com"> <img src="https://camo.githubusercontent.com/eafda2151b5e8592b0adb1634574d69c514bf26da4496b255ae008e9458b611f/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343837342f73637265656e73686f74732f333037343636302f676d61696c6472696262626c652e676966" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:brayandom1604@gmail.com"> <img src="https://i.imgur.com/E111DD3.jpeg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🧰 Languages and Tools:
@@ -28,6 +28,8 @@ Hello, my name is Brayan Domínguez and I am a student at the [Autonomous Univer
 <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/BO4UJwY.png" alt="angular" height="40" style="vertical-align:top; margin:4px">
+<img src="https://i.imgur.com/4Jv6lrf.png" alt="spring" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🏆 My Github Stats:
