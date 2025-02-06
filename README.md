@@ -1,11 +1,10 @@
 ## Hi there 👋, I’m [BryanDom](https://github.com/BryanDom) 😀!
 
-## I'm a developer and a student!
-Hello, my name is Brayan Domínguez and I am a student at the [Autonomous University of Zacatecas.](https://www.uaz.edu.mx/) I am a software developer. My technology stack includes Java/J2EE, MySQL, javascript, Python, C#, Rstudio and HTML/CSS/JS, PHP.
+## I'm a developer!
+Hello, my name is Brayan Domínguez, and I am a Software Engineer graduated from the [Autonomous University of Zacatecas](https://www.uaz.edu.mx/). I specialize in software development, and my technology stack includes Java/J2EE, MySQL, JavaScript, Python, C#, RStudio, HTML/CSS/JS, React, Node and PHP.
 
-- 🔭 I am attending the [Autonomous University of Zacatecas](https://www.uaz.edu.mx/) for Software Engineering!
-- 🌱 I am currently learning the ReactJs frameworks
-- 🥅 Goals 2024: Learn more new technologies and promation languages.
+- 🔭 I recently graduated with a degree in Software Engineering from the Autonomous University of Zacatecas.
+- 🥅 Goals 2025: Learn more new technologies and promation languages.
 
 ## ✉️ Find me on:
 <p align="center">
